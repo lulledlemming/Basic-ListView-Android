@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="dialog_toast_popup">"You have selected "</string>
+</resources>
